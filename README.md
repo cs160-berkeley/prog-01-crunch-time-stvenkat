@@ -4,15 +4,18 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Sreesha Venkat ([sreeshavenkat@berkeley.edu](mailto:sreeshavenkat@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [CS 160 PROG 01: Calometrics] (https://www.youtube.com/watch?v=Foa0WHqo_18&feature=youtu.be)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/ScreenShot1.jpg"/>
+<img src="screenshots/ScreenShot2.jpg"/>
+<img src="screenshots/ScreenShot3.jpg"/>
+<img src="screenshots/ScreenShot4.jpg"/>
 
 ## Acknowledgments
 
